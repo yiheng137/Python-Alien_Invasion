@@ -1,6 +1,6 @@
 # Python-Alien_Invasion
-# This project is only used for python practice (No intension for the business purpose).
-# Some resources are gained from Python Crash Course.
+
+Note: This project is only used for python practice (No intension for the business purpose). Some resources are gained from Python Crash Course.
 
 Project Description:
 In Alien Invasion, the player controls a ship that appears at the bottom center of the screen. The player can move the ship right and left using the arrow keys and shoot bullets using the
