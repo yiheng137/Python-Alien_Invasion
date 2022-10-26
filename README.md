@@ -13,8 +13,9 @@ GUI.py: stores the different game panels, such as title panel, game play panel, 
 settings.py: stores all game and GUI settings.  
 
 Display of the Game:  
-<img width="897" alt="1" src="https://user-images.githubusercontent.com/39048778/198046241-f03c8d15-101d-4679-acfa-ec0835abee1e.png">
-![Title Panel](https://user-images.githubusercontent.com/39048778/198046241-f03c8d15-101d-4679-acfa-ec0835abee1e.png?raw=true "Title Panel")
+<img width="400" alt="1" src="https://user-images.githubusercontent.com/39048778/198046241-f03c8d15-101d-4679-acfa-ec0835abee1e.png">  
+<img width="400" alt="2" src="https://user-images.githubusercontent.com/39048778/198046748-92dd208a-1653-4280-8de4-caac5a41fcfb.png">  
+<img width="400" alt="3" src="https://user-images.githubusercontent.com/39048778/198046805-bbe52656-c152-4766-a902-12b344088a9e.png">  
 
 Note: This project is only used for python practice (No intension for the business purpose). Some resources are gained from Python Crash Course.
 
