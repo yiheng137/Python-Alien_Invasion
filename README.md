@@ -17,7 +17,7 @@ Display of the Game:
 <img width="400" alt="2" src="https://user-images.githubusercontent.com/39048778/198046748-92dd208a-1653-4280-8de4-caac5a41fcfb.png">  
 <img width="400" alt="3" src="https://user-images.githubusercontent.com/39048778/198046805-bbe52656-c152-4766-a902-12b344088a9e.png">  
 
-Note: This project is only used for python practice (No intension for the business purpose). Some resources are gained from Python Crash Course.
+Note: This project is only used for python practice (No intension for the business purpose). Some resources are gained from Python Crash Course. Please manually make the folders: objects and panels as sources root. 
 
 Requirements:
   - Python 3 (v3.8)
