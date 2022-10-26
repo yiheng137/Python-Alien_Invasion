@@ -22,6 +22,18 @@ class PlayPanel:
         self.game_states = game_states
 
         # create the ship object with its settings
+        self.ship = None
+
+        # Make a group to store aliens
+        self.alien_fleet = None
+
+        # Make a group to store bullets.
+        self.bullet_lst = None
+
+        self.reset()
+
+    def reset(self):
+        # create the ship object with its settings
         self.ship = ship.Ship(self.ai_settings, self.screen)
 
         # Make a group to store aliens
@@ -97,6 +109,7 @@ class PlayPanel:
         if self.game_states.ships_left <= 0 or self.__aliens_bottom():
             self.game_states.update_rank()
             self.game_states.reset_stats()
+            self.reset()  # reset the game panel for the next play
             self.GUI_settings.game_stage = 2
 
     def __update_bullets(self):
