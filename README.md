@@ -23,3 +23,9 @@ Requirements:
   - Python 3 (v3.8)
   - Pygame (v2.1.2)
 
+Cloning the Repository:  
+$ git clone https://github.com/yiheng137/Python-Alien_Invasion.git  
+$ cd Python-Alien_Invasion  
+
+Play the game:  
+$ python run.py
