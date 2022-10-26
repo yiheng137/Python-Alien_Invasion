@@ -13,10 +13,12 @@ GUI.py: stores the different game panels, such as title panel, game play panel, 
 settings.py: stores all game and GUI settings.  
 
 Display of the Game:  
-![Title Panel](Python-Alien_Invasion/images/1.png?raw=true "Title Panel")
+<img width="897" alt="1" src="https://user-images.githubusercontent.com/39048778/198046241-f03c8d15-101d-4679-acfa-ec0835abee1e.png">
+![Title Panel](https://user-images.githubusercontent.com/39048778/198046241-f03c8d15-101d-4679-acfa-ec0835abee1e.png?raw=true "Title Panel")
 
 Note: This project is only used for python practice (No intension for the business purpose). Some resources are gained from Python Crash Course.
 
 Requirements:
   - Python 3 (v3.8)
   - Pygame (v2.1.2)
+
